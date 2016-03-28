@@ -1,0 +1,17 @@
+
+.a
+{
+	width: 312px;
+	overflow: hidden;
+	margin:0 auto;
+	border: 1px solid orange;
+	overflow: hidden;
+}	
+.b{
+	background-color: orange;
+	border-radius: 5px;/*圆角*/
+	height: 100px;
+	width: 100px;
+	margin: 2px;
+	float:left;
+}
